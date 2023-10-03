@@ -1,1 +1,2 @@
-# GitHubAssignment
+Tyler Lakman
+tyler.lakman@wsu.edu
